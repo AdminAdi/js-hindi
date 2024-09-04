@@ -18,3 +18,9 @@ console.log(booleanIsLoggedIn)
 //1=>true ; 0=> False
 //"" =>False
 //"Adi" =>true
+
+// ****************************************Operations*************************************************
+
+let value = 3
+let negvalue = -3
+console.log(negvalue)
